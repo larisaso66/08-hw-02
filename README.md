@@ -4,7 +4,7 @@
 
 ### Задание 1
 
-`1. Cкриншот авторизации в интерфейсе админке Zabbix`
+`1. Cкриншот авторизации в интерфейсе админки Zabbix`
 
 <img width="1581" height="857" alt="Снимок экрана zabbix admin" src="https://github.com/user-attachments/assets/8f4b0e0f-c697-4d8d-963f-c4033e8ed205" />
 
