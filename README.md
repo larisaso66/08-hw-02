@@ -36,9 +36,17 @@
 
 `Решение Задания 1`
 
-`Cкриншот авторизации в админке Zabbix`
+`1. Cкриншот авторизации в админке Zabbix`
 
 <img width="1581" height="857" alt="Снимок экрана zabbix admin" src="https://github.com/user-attachments/assets/8f4b0e0f-c697-4d8d-963f-c4033e8ed205" />
+
+`2. Текст использованных команд в GitHub`
+
+```
+ git clone https://github.com/netology-code/sys-pattern-homework.git my-new-homework
+ git remote add origin https://github.com/larisaso66/8-hw-02
+ git clone https://github.com/larisaso66/sys-pattern-homework.git
+```
 
 ---
 
